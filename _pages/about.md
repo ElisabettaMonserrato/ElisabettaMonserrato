@@ -1,18 +1,15 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
+author: Elisabetta Monserrato
 image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Diplomata al Liceo Linguistico G. Bianchi Dottula a Bari (Corso Giuseppe Mazzini 114, 70123, Bari) nel 2020, Elisabetta Monserrato affronta un corso di pasticceria e cake design nel 2021 presso la Scuola delle Professioni (Corso Cavour 9, 70122, Bari). Continua con pasticcera freelance in eventi privati mettendo a frutto le competenze apprese, tra cui ricordiamo:
+- ##### Preparazioni di basi torte (pan di spagna, crostate, millefoglie, muffin, e.g.) 
+- ##### Preparazioni di creme (pasticcera, chantilly, crema al burro, ganache, e.g.) 
+- ##### Piccola pasticceria (beigneits, cannoli siciliani, zeppole, frollini, e.g.) 
+- ##### Lievitati (ciambelle, krapfen, babà, e.g,) 
+- ##### Pasticceria moderna (glassa a specchio, croccanti, mousse, e.g.) 
+- ##### Pasticceria americana (cake pops, donuts, cupcake, brownies, cookies, e.g.) 
+- ##### Decorazioni in pasta di zucchero 
+- ##### Esperienza in prodotti senza lattosio

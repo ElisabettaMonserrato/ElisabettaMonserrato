@@ -2,10 +2,10 @@
 #-------------------------------
 # General Site Settings
 
-title: Elisabetta </br> Monserrato
+title: Elisabetta <br> Monserrato
 logo:
 author: themefisher
-description: this is meta description
+description: Portfolio pasticceria
 email: elisabettamonserrato@gmail.com
 phone: +39 338 831 6680
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
@@ -45,7 +45,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: Diplomata al Liceo Linguistico G. Bianchi Dottula a Bari (Corso Giuseppe Mazzini 114, 70123, Bari) nel 2020, Elisabetta Monserrato affronta un corso di pasticceria e cake design nel 2021 presso la Scuola delle Professioni (Corso Cavour 9, 70122, Bari). Continua con pasticcera freelance in eventi privati mettendo a frutto le competenze apprese...
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
