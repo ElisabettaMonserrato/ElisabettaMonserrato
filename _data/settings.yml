@@ -1,0 +1,224 @@
+---
+#-------------------------------
+# General Site Settings
+
+title: Elisabetta Monserrato
+logo:
+author: themefisher
+description: this is meta description
+email: elisabettamonserrato@gmail.com
+phone: +39 338 831 6680
+copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+
+menu:
+  - { name: About, link: "/about" }
+  - { name: Portfolio, link: "/portfolio" }
+  - { name: Contact, link: "/contact" }
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+google-analytics: # UA-XXXXXX-X
+
+#-------------------------------
+# Comment Section (Disqus)
+
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+
+#-------------------------------
+# Hero Section
+
+hero:
+  hero-title: Ciao! Sono Elisabetta Monserrato
+
+social:
+  - { icon: "ti-facebook", link: "#" }
+  - { icon: "ti-instagram", link: "#" }
+  - { icon: "ti-twitter", link: "#" }
+
+#-------------------------------
+# About (Section and Page)
+
+# About Section
+blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+blurb-btn-link: "/about"
+blurb-btn-name: know more
+
+# About Page
+
+# Work Process Section
+work-process:
+  - title: "Research and Plan"
+    icon: "assets/images/icons/plan.png"
+    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+  - title: "Design and Develop"
+    icon: "assets/images/icons/design.png"
+    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+  - title: "Deliver"
+    icon: "assets/images/icons/print.png"
+    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#-------------------------------
+# Exprerience Section
+
+experience-title: Experience
+experience:
+
+  - {
+      name: Diploma di Pasticceria ,
+      icon: "icon-2.png",
+      date: "2021",
+      organization: "Scuola delle professioni",
+    }
+  - {
+      name: Diploma di Cake Design ,
+      icon: "icon-3.png",
+      date: "2021",
+      organization: "Scuola delle professioni",
+    }
+
+#-------------------------------
+# Education Section
+
+education-title: Istruzione
+education:
+  - {
+      name: Diploma di Scuola Superiore, 
+      date: "2020",
+      organization: "Liceo G. Bianchi Dottula",
+    }
+  - {
+      name: Diploma ESABAC,
+      date: "2020",
+      organization: "Diploma di francese",
+    }
+#-------------------------------
+
+# Portfolio (Section and Page)
+
+# Portfolio Home Section
+portfolio-home-items:
+  - image: "assets/images/portfolio/p1.jpg"
+    url: "assets/images/portfolio/p1.jpg"
+
+  - image: "assets/images/portfolio/p2.jpg"
+    url: "assets/images/portfolio/p2.jpg"
+
+  - image: "assets/images/portfolio/p3.jpg"
+    url: "assets/images/portfolio/p3.jpg"
+
+  - image: "assets/images/portfolio/p4.jpg"
+    url: "assets/images/portfolio/p4.jpg"
+  
+  - image: "assets/images/portfolio/p5.jpg"
+    url: "assets/images/portfolio/p5.jpg"
+
+  - image: "assets/images/portfolio/p6.jpg"
+    url: "assets/images/portfolio/p6.jpg"
+
+# Portfolio Page
+
+portfolio-items:
+  - image: "assets/images/portfolio/p1.jpg"
+    url: "assets/images/portfolio/p1.jpg"
+    portfolio-type:
+      - type: "design"
+      - type: "illustration"
+
+  - image: "assets/images/portfolio/p2.jpg"
+    url: "assets/images/portfolio/p2.jpg"
+    portfolio-type:
+      - type: "branding"
+
+  - image: "assets/images/portfolio/p3.jpg"
+    url: "assets/images/portfolio/p3.jpg"
+    portfolio-type:
+      - type: "illustration"
+
+  - image: "assets/images/portfolio/p4.jpg"
+    url: "assets/images/portfolio/p4.jpg"
+    portfolio-type:
+      - type: "design"
+      - type: "branding"
+
+  - image: "assets/images/portfolio/p5.jpg"
+    url: "assets/images/portfolio/p5.jpg"
+    portfolio-type:
+      - type: "illustration"
+
+  - image: "assets/images/portfolio/p6.jpg"
+    url: "assets/images/portfolio/p6.jpg"
+    portfolio-type:
+      - type: "design"
+
+  - image: "assets/images/portfolio/p7.jpg"
+    url: "assets/images/portfolio/p7.jpg"
+    portfolio-type:
+      - type: "branding"
+
+  - image: "assets/images/portfolio/p8.jpg"
+    url: "assets/images/portfolio/p8.jpg"
+    portfolio-type:
+      - type: "design"
+      - type: "illustration"
+      - type: "branding"
+
+  - image: "assets/images/portfolio/p9.jpg"
+    url: "assets/images/portfolio/p9.jpg"
+    portfolio-type:
+      - type: "illustration"
+  - image: "assets/images/portfolio/p10.jpg"
+    url: "assets/images/portfolio/p10.jpg"
+    portfolio-type:
+      - type: "illustration"
+  - image: "assets/images/portfolio/p11.jpg"
+    url: "assets/images/portfolio/p11.jpg"
+    portfolio-type:
+      - type: "illustration"
+  - image: "assets/images/portfolio/p12.jpg"
+    url: "assets/images/portfolio/p12.jpg"
+    portfolio-type:
+      - type: "illustration"
+  - image: "assets/images/portfolio/p13.jpg"
+    url: "assets/images/portfolio/p13.jpg"
+    portfolio-type:
+      - type: "illustration"
+  - image: "assets/images/portfolio/p14.jpg"
+    url: "assets/images/portfolio/p14.jpg"
+    portfolio-type:
+      - type: "illustration"
+  - image: "assets/images/portfolio/p15.jpg"
+    url: "assets/images/portfolio/p15.jpg"
+    portfolio-type:
+      - type: "illustration"
+  - image: "assets/images/portfolio/p16.jpg"
+    url: "assets/images/portfolio/p16.jpg"
+    portfolio-type:
+      - type: "illustration"
+  - image: "assets/images/portfolio/p17.jpg"
+    url: "assets/images/portfolio/p17.jpg"
+    portfolio-type:
+      - type: "illustration"
+  - image: "assets/images/portfolio/p18.jpg"
+    url: "assets/images/portfolio/p18.jpg"
+    portfolio-type:
+      - type: "illustration"
+  - image: "assets/images/portfolio/p19.jpg"
+    url: "assets/images/portfolio/p19.jpg"
+    portfolio-type:
+      - type: "illustration"
+
+#-------------------------------
+
+# Contact Section
+
+contact-title: Contatti
+contact-email: elisabettamonserrato@gmail.com

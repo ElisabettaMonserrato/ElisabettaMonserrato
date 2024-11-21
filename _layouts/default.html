@@ -1,12 +1,21 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-    {% include navigation.html %}
-    {{ content }}
-  </body>
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+  {% include header.html %}
+
+  {{ content }}
+
+  {% include contact-section.html %}
+
+  {% include footer.html %}
+
+</body>
+
 </html>
